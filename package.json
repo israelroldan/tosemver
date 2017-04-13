@@ -1,0 +1,22 @@
+{
+  "name": "tosemver",
+  "version": "0.0.1",
+  "description": "Convert a four digit group version (n.n.n.n) to a valid semver",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/israelroldan/tosemver.git"
+  },
+  "keywords": [
+    "semver"
+  ],
+  "author": "Israel Roldan (github@israelroldan.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/israelroldan/tosemver/issues"
+  },
+  "homepage": "https://github.com/israelroldan/tosemver#readme",
+  "dependencies": {
+    "semver": "^5.3.0"
+  }
+}

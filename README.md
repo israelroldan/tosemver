@@ -1,2 +1,2 @@
-# tosemver
-Convert a non-compliant version format (n.n.n.n, n.n.n#n, n.n.nabc) to a valid SemVer 
+# tosemver ℹ️
+Convert a four digit group version (n.n.n.n) to a valid semver
