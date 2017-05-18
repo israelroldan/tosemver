@@ -1,6 +1,6 @@
 {
   "name": "tosemver",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Convert a four digit group version (n.n.n.n) to a valid semver",
   "main": "index.js",
   "repository": {
